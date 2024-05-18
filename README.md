@@ -1,6 +1,9 @@
 # CAR PRICE PREDICTOR 
 This application utilizes a linear regression machine learning model to predict the price of second-hand cars. By inputting specific details about the car, users can receive an estimated market price instantly. The goal of this project is to provide an easy-to-use tool for both buyers and sellers in the second-hand car market, offering them a data-driven estimate of a car's value.
 
+<img width="960" alt="Screenshot 2024-05-18 170623" src="https://github.com/MuKuLJain07/Car-Price-Predictor/assets/81482724/2d986d98-4cf5-4053-a966-9f1e13246614">
+
+
 ## Features
  - User-Friendly Interface: Simple and intuitive design for easy input of car details.
  - Instant Price Prediction: Get an immediate estimate of the car's market value based on the provided details.
@@ -37,6 +40,8 @@ Clone the repository and install the required dependencies(Run the following com
  - Input Car Details: Enter the required details about the car such as make, model, year, mileage, and other relevant features.
  - Get Price Prediction: Click the 'Predict Price' button to receive an estimated price for the car
 
+![Screenshot 2024-05-18 170743](https://github.com/MuKuLJain07/Car-Price-Predictor/assets/81482724/1d6839af-fcd4-4601-ac83-40b73619ab37)
+<img width="960" alt="Screenshot 2024-05-18 170810" src="https://github.com/MuKuLJain07/Car-Price-Predictor/assets/81482724/ac771091-0041-471b-9b85-7010edbe2cec">
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
